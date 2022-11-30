@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Studentai", "GUI_Studentai\GUI_Studentai.csproj", "{AABFD519-8DB5-4F90-A2AD-C201851EDF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABFD519-8DB5-4F90-A2AD-C201851EDF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABFD519-8DB5-4F90-A2AD-C201851EDF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABFD519-8DB5-4F90-A2AD-C201851EDF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABFD519-8DB5-4F90-A2AD-C201851EDF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11A8413-2963-478E-AE89-B1E92F5033F8}
+	EndGlobalSection
+EndGlobal

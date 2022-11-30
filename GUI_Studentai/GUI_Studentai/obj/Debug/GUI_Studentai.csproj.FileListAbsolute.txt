@@ -1,0 +1,10 @@
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\bin\Debug\GUI_Studentai.exe.config
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\bin\Debug\GUI_Studentai.exe
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\bin\Debug\GUI_Studentai.pdb
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.csprojAssemblyReference.cache
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.Form1.resources
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.Properties.Resources.resources
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.GenerateResource.cache
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.csproj.CoreCompileInputs.cache
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.exe
+C:\Users\Vesta\source\repos\GUI_Studentai\GUI_Studentai\obj\Debug\GUI_Studentai.pdb
